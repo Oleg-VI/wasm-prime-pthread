@@ -1,4 +1,6 @@
-# Build folders and generated files
+# Build folders
 build/
-*.wasm
-prime_module.js
+
+# Emscripten generated files
+web/prime_module.js
+web/prime_module.wasm
